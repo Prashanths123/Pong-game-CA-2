@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: url(https://t3.ftcdn.net/jpg/04/78/02/20/360_F_478022045_qMnwV12jSCAppHaqasmuWSWi323dLQtR.jpg);
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+#board {
+    background-color: rgb(109, 106, 106);
+    border-top: 5px solid rgb(0, 90, 126);
+    border-bottom: 5px solid rgb(0, 90, 126);
+
+}
